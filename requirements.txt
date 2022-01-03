@@ -1,2 +1,3 @@
 disrcod
 colorama
+aiohttp
