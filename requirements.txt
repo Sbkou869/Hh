@@ -1,3 +1,4 @@
 disrcod
 colorama
 aiohttp
+requests
