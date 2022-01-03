@@ -1,1 +1,1 @@
-worker: node fzlnuker.py
+worker: python fzlnuker.py
