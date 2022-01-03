@@ -1,0 +1,33 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Lendory",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "@iamtraction/google-translate": "^1.1.2",
+    "aoi.js": "^4.0.6",
+    "canvacord": "^5.2.3",
+    "canvas": "^2.8.0",
+    "dbd.express": "^1.0.1",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^13.3.1",
+    "discord.js-pagination": "^1.0.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "moment": "^2.29.1",
+    "pretty-ms": "^7.0.1",
+    "strftime": "^0.10.0",
+    "yt-search": "^2.10.2",
+    "ytdl-core": "^4.8.3"
+  }
+}
