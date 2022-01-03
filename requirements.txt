@@ -2,3 +2,5 @@ disrcod
 colorama
 aiohttp
 requests
+time
+json
