@@ -1,1 +1,1 @@
-worker: python fzlnuker.py
+worker: python bot.py
