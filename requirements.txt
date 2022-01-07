@@ -3,6 +3,7 @@ colorama
 datetime
 string
 sleep
+os
 aiohttp
 requests
 time
