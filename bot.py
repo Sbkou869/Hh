@@ -13,11 +13,9 @@ import requests
 import datetime
 from asyncio import sleep
 
-token = "bot token here"
+token = "OTI2MTc3OTIyMjQxMzk2NzY2.Yc34aA.Hy91qNmYiQgzNk6FEsOgxObUxKE"
 
-intents = discord.Intents.default()
-intents.members = True
-client = commands.Bot(command_prefix='n!', intents=intents)
+client = commands.Bot(command_prefix='n!')
 client.remove_command('help') # удаляем встроенную команду хелпа
 
 @client.command()
