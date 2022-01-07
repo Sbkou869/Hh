@@ -1,5 +1,8 @@
 disrcod
 colorama
+datetime
+string
+sleep
 aiohttp
 requests
 time
